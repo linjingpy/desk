@@ -1,15 +1,15 @@
-####desk
+## desk
 
 🔥一个由<u>rust</u>编写的ai cli工具🚀
 
 [我的Github](https://github.com/linjingpy)
 
-#运行
+## 运行
 ```bash
 cargo run
 ```
 
-#测试
+## 测试
 ```rust
 use::std::stdin;
 
