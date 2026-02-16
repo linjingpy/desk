@@ -5,11 +5,13 @@
 #运行
 ```bash
 cargo run
+```
 
 #测试
 ```rust
 use::std::stdin;
 
-fn main{
+fn main (){
 
 }
+```
