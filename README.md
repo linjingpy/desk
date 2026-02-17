@@ -37,3 +37,23 @@ fn main (){
 [^1]: 这是脚注的内容。
 
 <mark>高亮显示</mark>
+
+```mermaid
+graph TD
+    A[开始] --> B{判断}
+    B -->|是| C[执行]
+    B -->|否| D[结束]
+```
+
+行内公式：$E = mc^2$
+
+独立公式：
+$$
+\int_a^b f(x)\,dx = F(b) - F(a)
+$$
+
+```mermaid
+sequenceDiagram
+    Alice->>John: 你好
+    John-->>Alice: 你好吗？
+```
