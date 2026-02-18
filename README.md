@@ -29,9 +29,9 @@ fn main (){
 - [ ] Agent功能
 - [ ] cli功能
 - [ ] 网络请求
-- [ ] 输出😂
-> 这是一级引用
->> 这是二级引用
+- [x] 输出😂
+> Rust Cli
+>> Ai Agent
 
 ```mermaid
 graph TD
